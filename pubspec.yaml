@@ -24,6 +24,9 @@ dependencies:
   ffmpeg_kit_flutter_platform_interface: ^0.2.1
   flutter:
     sdk: flutter
+  git:
+    url: https://github.com/dhroopy/oepp_ffmpeg_kit_flutter_platform_interface-0.2.1.git
+    ref: master # or a specific branch/tag/commit
 
 dev_dependencies:
   flutter_test:
